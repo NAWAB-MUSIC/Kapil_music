@@ -1,5 +1,5 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--              ✦  XBITCODE MUSIC BOT  ✦                        -->
+<!--              ✦  NAWABCODE MUSIC BOT  ✦                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
@@ -40,7 +40,7 @@
 <br/>
 
 <!--------------------------------------------------------------->
-<!--                     BANNER / THUMBNAIL                     -->
+<!--                     NAWAB / MUSIC                     -->
 <!--------------------------------------------------------------->
 
 <div align="center">
@@ -55,7 +55,7 @@
 
 ```
  ╔══════════════════════════════════╗
- ║   🎵  XBITCODE MUSIC BOT  🎵    ║
+ ║   🎵  NAWABCODE MUSIC BOT  🎵    ║
  ║──────────────────────────────────║
  ║  🟢  Status      →  Online       ║
  ║  ⚡  Latency     →  < 100ms      ║
@@ -71,7 +71,7 @@
 
 ```
  ╔══════════════════════════════════╗
- ║    🚀  XBITCODE  API  🚀         ║
+ ║    🚀  NAWABCODE  API  🚀         ║
  ║──────────────────────────────────║
  ║  🔑  Auth        →  API Key      ║
  ║  📡  Endpoint    →  xbitcode.com ║
@@ -130,7 +130,7 @@
 
 <br/><br/>
 
-[![⭐ Star this Repo](https://img.shields.io/badge/⭐%20Star%20this%20Repo-f59e0b?style=for-the-badge)](https://github.com/xbitcode/music)
+[![⭐ Star this Repo](https://img.shields.io/badge/⭐%20Star%20this%20Repo-f59e0b?style=for-the-badge)](https://github.com/NAWAB-MUSIC/Kapil_music/edit/main/.github/README.md)
 
 </td>
 </tr>
